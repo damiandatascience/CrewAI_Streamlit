@@ -58,8 +58,6 @@ El Generador de Artículos con CrewAI y Streamlit es una aplicación web innovad
 ## Estructura del Proyecto
 
 ```
-generador-articulos-ia/
-│
 ├── pyproject.toml    # Configuración de Poetry y metadatos del proyecto
 ├── poetry.lock       # Archivo de bloqueo de dependencias de Poetry
 ├── README.md         # Este archivo
