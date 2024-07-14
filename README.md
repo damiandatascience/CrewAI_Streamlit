@@ -20,7 +20,7 @@ El Generador de Artículos con CrewAI y Streamlit es una aplicación web innovad
 
 ## Requisitos
 
-- Python 3.7+
+- Python >=3.10 and <=3.13 installed on your system:
 - Poetry (para gestión de dependencias y entornos virtuales)
 - Una clave API válida de OpenAI
 
@@ -28,11 +28,12 @@ El Generador de Artículos con CrewAI y Streamlit es una aplicación web innovad
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/generador-articulos-ia.git
+   git clone https://github.com/damiandatascience/CrewAI_Streamlit.git
+   
    ```
 2. Navega al directorio del proyecto:
    ```
-   cd generador-articulos-ia
+   cd pyproject.toml
    ```
 3. Instala las dependencias usando Poetry:
    ```
@@ -63,7 +64,6 @@ generador-articulos-ia/
 ├── poetry.lock       # Archivo de bloqueo de dependencias de Poetry
 ├── README.md         # Este archivo
 ├── app.py            # Código principal de la aplicación Streamlit
-└── .env              # Archivo para variables de entorno (asegúrate de incluirlo en .gitignore)
 ```
 
 ## Desarrollo
@@ -90,7 +90,8 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-Para preguntas o soporte, por favor contacta a [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com).
+Para preguntas o soporte, por favor contacta a soporte@inteligenciartificialgenerativa.online.
+
 
 ---
 
