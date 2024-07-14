@@ -33,7 +33,7 @@ El Generador de Artículos con CrewAI y Streamlit es una aplicación web innovad
    ```
 2. Navega al directorio del proyecto:
    ```
-   cd pyproject.toml
+   cd CrewAI_Streamlit
    ```
 3. Instala las dependencias usando Poetry:
    ```
