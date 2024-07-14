@@ -37,7 +37,8 @@ El Generador de Artículos con CrewAI y Streamlit es una aplicación web innovad
    ```
 3. Instala las dependencias usando Poetry:
    ```
-   poetry install --no-root.
+   poetry install --no-root
+
    ```
 
 ## Uso
